@@ -15,6 +15,9 @@ Gerenciador de tarefas moderno e responsivo construído com HTML, CSS e JavaScri
 - JavaScript ES6+
 - LocalStorage API
 
+## 📱 Demo
+[GitHub Pages](https://leandru7.github.io/Task-Manager/)
+
 ## 🔄 Roadmap
 - [ ] Migração para TypeScript
 - [ ] Implementação em React
